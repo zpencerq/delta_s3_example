@@ -1,0 +1,3 @@
+moto[server]
+boto3
+pyspark==2.4.3
